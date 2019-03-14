@@ -1,0 +1,6 @@
+*.log
+*.txt
+*.jpg
+*.jpeg
+__pycache__/
+data/
